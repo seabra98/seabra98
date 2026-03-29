@@ -1,4 +1,4 @@
-# 🚀 Polymarket Trading Bot Developer | Algorithmic Trading Engineer
+# Polymarket Trading Bot Developer | Algorithmic Trading Engineer
 
 Hi there 👋  
 
